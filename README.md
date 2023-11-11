@@ -1,8 +1,10 @@
-¡Hola! 😁 Mi nombre es Hilda Zepeda, soy ingeniera en sistemas computacionales y actualmente me dedico al desarrollo de software freelancer, 
-trabajo principalmente en el backend con tecnologías web, pero continuamente estoy desarrollando mis habilidades con el frontend. 
-En mis repositorios encontrarás principalmente PHP y Laravel, así como JavaScript, JQuery, Ajax, HTML y CSS. 
-Igualmente comparto un gran gusto por Java y C#.
-Trabajo principalmente con bases de datos MySQL y SQL Server.
+¡Hola! 😁 Mi nombre es Hilda Zepeda, soy ingeniera en sistemas computacionales y actualmente me dedico al desarrollo de software, 
+trabajo como Backend Developer y me especializo en el desarrollo de microservicios en Java, pero continuamente estoy desarrollando mis habilidades con el frontend. 
 
-Ah, y soy una gran fanática de juego de tronos (aunque eso no tenga relación con todo lo anterior). 
+### Experiencia Técnica:
+- **Lenguajes de Programación:** Java (especialmente en entornos de microservicios), PHP (con experiencia en Laravel).
+- **Base de Datos:** Experiencia sólida en diseño, implementación y optimización de bases de datos con MySQL y SQL Server.
+- **Frontend:** Desarrollo de interfaces de usuario con JavaScript, CSS, HTML y Bootstrap.
+- **Colaboración y Desarrollo Ágil:** Experiencia en entornos ágiles, colaborativos y herramientas como Git.
+  
 ¡Saludos!
